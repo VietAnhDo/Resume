@@ -31,10 +31,10 @@
 
 ----
 ## Free hours per week
-- 4 hours
+- 5 hours - 8 hours
 
 ----
-## What skill I want to improve
+## What skills I want to improve
 
 - Write
 - Communicate
